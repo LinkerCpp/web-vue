@@ -1,0 +1,8 @@
+# Logs
+*.logs
+*.log
+# Diretórios
+node_modules/
+dist/
+# Variáveis de ambiente
+.env
